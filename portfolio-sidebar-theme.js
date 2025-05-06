@@ -169,7 +169,7 @@ class PortfolioSidebarTheme extends LitElement {
       </nav>
       <main>
       <section id="screen-1">
-  <img class="profile-pic" src="IMG_3125.jpg" alt="Antonio Daiute" />
+  <img class="profile-pic" src="IMG_3125.JPG" alt="Antonio Daiute" />
   <h1>Antonio Daiute</h1>
   <p>Cybersecurity Operations and Analytics | The Pennsylvania State University</p>
   <p>Naval ROTC | Scabbard and Blade | Penn State Club Water Polo</p>
